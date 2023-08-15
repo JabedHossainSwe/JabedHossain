@@ -9,14 +9,20 @@
 
 - 📫 How to reach me **jabed.swe@gmail.com**
 
+- 📞 You can call me at any time: **+8801305009069**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <p align="left">
   <a href="https://www.linkedin.com/in/jabedhossain" target="_blank">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+<a href="https://twitter.com/xabedhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jabed" height="30" width="40" /></a>
+<a href="https://instagram.com/jabedhossainjabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jabedhossainjabu" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
