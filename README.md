@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabedhossainswe" alt="jabedhossainswe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xabedhossain" target="blank"><img src="https://img.shields.io/twitter/follow/xabedhossain?logo=twitter&style=for-the-badge" alt="xabedhossain" /></a> </p>
-
-![image](https://github.com/JabedHossainSwe/JabedHossain/assets/60073739/de9fedc4-008f-4052-a779-d4368f4fc64c)
 
 - 🔭 I’m currently working on [Leomart (E-commerce Project)](http://leomart.leotechbd.com/)
 
@@ -27,6 +24,10 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/uouqundjkh](https://flowcv.com/resume/uouqundjkh)
 
+<img src="https://github.com/JabedHossainSwe/JabedHossain/assets/60073739/c2b5544d-ff94-4240-9759-1118e604611e" alt="Image" width="300" align="right" style="margin-left: 20px; border: 1px solid #ddd;" />
+
+
+<p align="left"> <a href="https://twitter.com/xabedhossain" target="blank"><img src="https://img.shields.io/twitter/follow/xabedhossain?logo=twitter&style=for-the-badge" alt="xabedhossain" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
