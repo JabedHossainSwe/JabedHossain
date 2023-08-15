@@ -34,10 +34,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabedhossainswe&show_icons=true&locale=en&layout=compact" alt="jabedhossainswe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabedhossainswe&show_icons=true&locale=en&layout=compact" alt="jabedhossainswe" width="48%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabedhossainswe&show_icons=true&locale=en" alt="jabedhossainswe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabedhossainswe&show_icons=true&locale=en" alt="jabedhossainswe" width="48%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossainswe&" alt="jabedhossainswe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossainswe&" alt="jabedhossainswe" width="48%" /></p>
+
 
 
