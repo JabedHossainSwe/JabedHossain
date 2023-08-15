@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/xabedhossain" target="blank"><img src="https://img.shields.io/twitter/follow/xabedhossain?logo=twitter&style=for-the-badge" alt="xabedhossain" /></a> </p>
 
+![image](https://github.com/JabedHossainSwe/JabedHossain/assets/60073739/de9fedc4-008f-4052-a779-d4368f4fc64c)
+
 - 🔭 I’m currently working on [Leomart (E-commerce Project)](http://leomart.leotechbd.com/)
 
 - 🌱 I’m currently learning **Laravel, React**
@@ -15,7 +17,7 @@
 
 - 🔭 I Have Worked on **Hydrology Project (Under Bangladesh Water Development Board)**
 
-- 👨‍💻 All of my projects are available at [https://jabedsportfolio.netlify.app](https://jabedsportfolio.netlify.app)
+- 👨‍💻 My portfolio [https://jabedsportfolio.netlify.app](https://jabedsportfolio.netlify.app)
 
 - 📝 I regularly write articles on [https://pathtowebsitebuilding.blogspot.com/](https://pathtowebsitebuilding.blogspot.com/)
 
@@ -24,6 +26,7 @@
 - 📫 How to reach me **jabed.swe@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/uouqundjkh](https://flowcv.com/resume/uouqundjkh)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
