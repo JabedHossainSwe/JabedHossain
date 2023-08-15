@@ -13,6 +13,8 @@
 
 - 📞 You can call me at any time: **+8801305009069**
 
+<p align="right"><img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="Programmers Go Internet Sticker" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left">
