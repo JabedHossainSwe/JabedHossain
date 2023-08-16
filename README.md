@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabed Hossain</h1>
-<h3 align="center">A passionate PHP & LARVEL developer from Bangladesh</h3>
+<h3 align="center">A passionate **PHP & LARVEL** developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabedhossainswe&label=Profile%20views&color=0e75b6&style=flat" alt="jabedhossainswe" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jabed.swe@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/uouqundjkh](https://flowcv.com/resume/uouqundjkh)
+- 📄 My resume [https://flowcv.com/resume/uouqundjkh](https://flowcv.com/resume/uouqundjkh)
 
 <img src="https://github.com/JabedHossainSwe/JabedHossain/assets/60073739/c2b5544d-ff94-4240-9759-1118e604611e" alt="Image" width="300" align="right" style="margin-left: 20px; border: 1px solid #ddd;" />
 
