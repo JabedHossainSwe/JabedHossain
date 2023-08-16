@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabedhossainswe" alt="jabedhossainswe" /></a> </p>
 
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Laravel & React Frameworks**
 - 🔭 I’m currently working on these projects
   1. [Leomart (E-commerce Project)](http://leomart.leotechbd.com/)
   2. [Sustainable Coastal and Marine Fisheries Project (Under Department of Fisheries)](http://craftgear-db.fisheries.gov.bd/)
