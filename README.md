@@ -53,7 +53,7 @@ In addition to my full-stack prowess, I also have a knack for PHP and Laravel de
 <a href="https://linkedin.com/in/jabedhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabedhossain" height="30" width="40" /></a>
 <a href="https://fb.com/jabedhossainjabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jabedhossainjabu" height="30" width="40" /></a>
 <a href="https://instagram.com/jabedhossainjabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jabedhossainjabu" height="30" width="40" /></a>
-<a href="https://discord.gg/jabedhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jabedhasan" height="30" width="40" /></a>
+<a href="https://discord.gg/jabedhossainswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jabedhasan" height="30" width="40" /></a>
 </p>
 
 
