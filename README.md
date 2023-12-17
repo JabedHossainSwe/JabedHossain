@@ -4,7 +4,7 @@
 
 I'm a self-taught and passionate full-stack developer 🎯 hailing from the vibrant city of Dhaka, Bangladesh 🇧🇩, but my reach extends across the globe 🌎. Currently, I'm proudly contributing my skills as a PHP & Laravel Developer 👨‍🎓 at <a href="https://www.leotechbd.com/">LEOTECH</a>
 
-My heart beats for exploring new technologies and crafting impressive web applications. I'm well-versed in a variety of tech stacks, including ReactJs, React Native, VueJs, NextJs, and Flutter 🔭. 
+My heart beats for exploring new technologies and crafting impressive web applications. I'm well-versed in a variety of tech stacks, including ReactJs, React Native, VueJs, NextJs 🔭. 
 
 What drives me is the pursuit of enhancing web application performance, ensuring they are both responsive and progressive for a top-notch user experience 🌱. I'm on a journey to perfect the art of web development, and I'm eager to collaborate with a dynamic, quality-focused team to propel the world of web development forward 🚀.
 
