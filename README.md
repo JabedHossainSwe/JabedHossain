@@ -62,10 +62,46 @@ In addition to my full-stack prowess, I also have a knack for PHP and Laravel de
 <a href="https://discord.gg/jabedhossainswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jabedhasan" height="30" width="40" /></a>
 </p>
 
+## 🏆 Github Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabedhossainswe&show_icons=true&locale=en&layout=compact" alt="jabedhossainswe" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabedhossainswe&show_icons=true&locale=en&layout=compact" alt="jabedhossainswe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabedhossainswe&show_icons=true&locale=en" alt="jabedhossainswe" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossainswe&" alt="jabedhossainswe" /></p>
+-->
 
+<img  src="https://github-readme-stats.vercel.app/api?username=jabedhossainswe&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" > <br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossainswe&theme=tokyonight" width="45%" > 
+
+<br /> <br />
+
+
+### My Stacks
+
+```json
+{
+  "languages": ["HTML", "CSS", "Javascript", "PHP"],
+  "frameworks/libraries": {
+    "backend": ["Laravel"],
+    "frontend": ["React.js"],
+    "others": ["Scikit Learn", "NumPy", "Pandas", "Matplotlib"]
+  },
+  "database": ["SQL","MySql"],
+}
+```
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://jabedsportfolio.netlify.app/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=jabed.swe@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/j/](https://www.linkedin.com/in/jabedhossain/))
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jabedhossainjabu/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jabedhossainjabu/)
+
+</div>
+
+![](https://i.imgur.com/IuzIC2j.png)
+#### Happy coding!
