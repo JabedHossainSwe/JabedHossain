@@ -81,11 +81,11 @@ In addition to my full-stack prowess, I also have a knack for PHP and Laravel de
 
 ```json
 {
-  "languages": ["HTML", "CSS", "Javascript", "PHP"],
+  "languages": ["HTML", "CSS", "Javascript", "AJAX", "PHP", "BootStrap", "Python"],
   "frameworks/libraries": {
     "backend": ["Laravel"],
     "frontend": ["React.js"],
-    "others": ["Scikit Learn", "NumPy", "Pandas", "Matplotlib"]
+    "others": ["Machine Learning", "Scikit Learn", "NumPy", "Pandas", "Matplotlib"]
   },
   "database": ["SQL","MySql"],
 }
