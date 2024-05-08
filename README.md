@@ -21,7 +21,7 @@ In addition to my full-stack prowess, I also have a knack for PHP and Laravel de
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
-- 🌱 I’m currently learning **Laravel & React Frameworks**
+- 🌱 I’m currently learning **Laravel, Livewire & React Frameworks**
 - 🔭 I’m currently working on these projects
   1. [Leomart (E-commerce Project)](http://leomart.leotechbd.com/)
   2. [Sustainable Coastal and Marine Fisheries Project (Under Department of Fisheries)](http://craftgear-db.fisheries.gov.bd/)
@@ -32,7 +32,7 @@ In addition to my full-stack prowess, I also have a knack for PHP and Laravel de
 
 - 📝 I regularly write articles on [https://pathtowebsitebuilding.blogspot.com/](https://pathtowebsitebuilding.blogspot.com/)
 
-- 💬 Ask me about **PHP, Laravel, React**
+- 💬 Ask me about **PHP, Laravel, Livewire, React**
 
 - 📫 How to reach me **jabed.swe@gmail.com**
 
@@ -83,11 +83,11 @@ In addition to my full-stack prowess, I also have a knack for PHP and Laravel de
 {
   "languages": ["HTML", "CSS", "Javascript", "AJAX", "PHP", "BootStrap", "Python"],
   "frameworks/libraries": {
-    "backend": ["Laravel"],
+    "backend": ["Laravel, Livewire, Node js"],
     "frontend": ["React.js"],
     "others": ["Machine Learning", "Scikit Learn", "NumPy", "Pandas", "Matplotlib"]
   },
-  "database": ["SQL","MySql"],
+  "database": ["SQL","MySql", "MongoDb"],
 }
 ```
 
