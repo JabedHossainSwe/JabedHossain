@@ -2,7 +2,8 @@
 <h1 align="center"> Hi, I'm Jabed Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> </h1>
 <h3 align="center">A passionate PHP & Laravel developer</h3>
 
-I'm a self-taught and passionate full-stack developer 🎯 hailing from the vibrant city of Dhaka, Bangladesh 🇧🇩, but my reach extends across the globe 🌎. Currently, I'm proudly contributing my skills as a PHP & Laravel Developer 👨‍🎓 at <a href="https://www.leotechbd.com/">LEOTECH</a>
+I'm a self-taught and passionate full-stack developer 🎯 hailing from the vibrant city of Dhaka, Bangladesh 🇧🇩, but my reach extends across the globe 🌎. I proudly contributed my skills as a PHP & Laravel Developer 👨‍🎓 at <a href="https://www.leotechbd.com/">LEOTECH (Panthapath, Dhaka, Bangladesh)</a> from June 2023 - January 2024.
+Currently, I'm proudly contributing my skills as a Laravel Developer 👨‍🎓 at <a href="https://itbangla.org/">IT Bangla Limited (Paltan, Dhaka, Bangladesh)</a> from June 2023 - January 2024.
 
 My heart beats for exploring new technologies and crafting impressive web applications. I'm well-versed in a variety of tech stacks, including ReactJs, React Native, VueJs, NextJs 🔭. 
 
