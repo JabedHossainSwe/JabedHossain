@@ -13,7 +13,7 @@ What drives me is the pursuit of enhancing web application performance, ensuring
 In addition to my full-stack prowess, I also have a knack for PHP and Laravel development.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jabedhossainswe)
-![age](https://img.shields.io/badge/age-23-blueviolet)
+![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
