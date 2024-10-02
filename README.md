@@ -89,7 +89,7 @@ In addition to my full-stack prowess, I also have a knack for PHP and Laravel de
     "frontend": ["React.js"],
     "others": ["Machine Learning", "Scikit Learn", "NumPy", "Pandas", "Matplotlib"]
   },
-  "database": ["SQL","MySql", "MongoDb"],
+  "database": ["SQL", "MySql", "MongoDb", "Oracle"],
 }
 ```
 
