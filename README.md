@@ -1,16 +1,15 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center"> Hi, I'm Jabed Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> </h1>
-<h3 align="center">A passionate PHP & Laravel developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
+I'm a self-taught and passionate full-stack developer 🎯 from the vibrant city of Dhaka, Bangladesh 🇧🇩, with a global reach 🌍. I previously worked at <a href="https://itbangla.org/" target="_blank">IT Bangla Limited</a> in Paltan, Dhaka, Bangladesh, as a Laravel Developer from May 2024 to September 30, 2024, contributing to high-quality projects.
 
-I'm a self-taught and passionate full-stack developer 🎯 hailing from the vibrant city of Dhaka, Bangladesh 🇧🇩, but my reach extends across the globe 🌎. I worked as a PHP and Laravel Developer at <a href="https://www.leotechbd.com/" target="_blank">LEOTECH</a> in Panthapath, Dhaka, Bangladesh, from June 2023 to January 2024, where I proudly contributed my skills.<br>
+<b>Currently,</b> I’m a Full Stack Web Developer 👨‍💻 at <a href="https://redorangecom.com" target="_blank">RedOrange Communications</a> in Banani, Dhaka, Bangladesh, starting from October 1, 2024.
 
-<b>Currently,</b> I am a Laravel Developer 👨‍🎓 at <a href="https://itbangla.org/"  target="_blank">IT Bangla Limited</a> in Paltan, Dhaka, Bangladesh, since May 2024.
+I’m passionate about discovering and implementing new technologies. I specialize in creating efficient and impressive web applications, utilizing modern tech stacks such as ReactJs, React Native, VueJs, and NextJs. My primary focus is on enhancing web application performance to ensure they are responsive, progressive, and deliver an exceptional user experience 🌱.
 
-My heart beats for exploring new technologies and crafting impressive web applications. I'm well-versed in a variety of tech stacks, including ReactJs, React Native, VueJs, NextJs 🔭. 
+I'm on a journey to master the art of web development, and I’m excited to collaborate with dynamic, quality-focused teams to propel the world of web technologies forward 🚀.
 
-What drives me is the pursuit of enhancing web application performance, ensuring they are both responsive and progressive for a top-notch user experience 🌱. I'm on a journey to perfect the art of web development, and I'm eager to collaborate with a dynamic, quality-focused team to propel the world of web development forward 🚀.
-
-In addition to my full-stack prowess, I also have a knack for PHP and Laravel development.
+In addition to full-stack development, I bring extensive experience in PHP and Laravel development, where I craft seamless back-end solutions that integrate smoothly with modern front-end frameworks.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jabedhossainswe)
 ![age](https://img.shields.io/badge/age-24-blueviolet)
