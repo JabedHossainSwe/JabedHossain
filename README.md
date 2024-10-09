@@ -2,15 +2,11 @@
 <h1 align="center"> Hi, I'm Jabed Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> </h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-Here’s an improved and refined version of your introduction:
-
----
-
 I'm a self-taught and passionate full-stack developer 🎯 hailing from the vibrant city of Dhaka, Bangladesh 🇧🇩, with a keen interest in building global-scale web solutions 🌍. My professional journey began at <a href="https://www.leotechbd.com/" target="_blank">LEOTECH</a> in Panthapath, Dhaka, where I worked as a PHP and Laravel Developer from June 2023 to January 2024, taking pride in delivering dynamic and impactful projects. I then advanced to <a href="https://itbangla.org/" target="_blank">IT Bangla Limited</a> in Paltan, Dhaka, where I served as a Laravel Developer from May 2024 to September 30, 2024, contributing to high-quality, cutting-edge web applications.
 
 <b>Currently,</b> I’m working as a Full Stack Web Developer 👨‍💻 at <a href="https://redorangecom.com" target="_blank">RedOrange Communications</a> in Banani, Dhaka, since October 1, 2024, where I continue to push boundaries and elevate the standards of modern web development.
 
-I’m passionate about discovering and implementing new technologies. I specialize in creating efficient and impressive web applications, utilizing modern tech stacks such as ReactJs, React Native, VueJs, and NextJs. My primary focus is on enhancing web application performance to ensure they are responsive, progressive, and deliver an exceptional user experience 🌱.
+I’m passionate about discovering and implementing new technologies. I specialize in creating efficient and impressive web applications, utilizing modern tech stacks such as PHP, Laravel, ReactJs. My primary focus is on enhancing web application performance to ensure they are responsive, progressive, and deliver an exceptional user experience 🌱.
 
 I'm on a journey to master the art of web development, and I’m excited to collaborate with dynamic, quality-focused teams to propel the world of web technologies forward 🚀.
 
