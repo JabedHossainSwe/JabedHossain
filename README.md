@@ -73,8 +73,8 @@ In addition to full-stack development, I bring extensive experience in PHP and L
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossainswe&" alt="jabedhossainswe" /></p>
 -->
 
-<img  src="https://github-readme-stats.vercel.app/api?username=jabedhossainswe&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" > <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossainswe&theme=tokyonight" width="45%" > 
+<img  src="https://github-readme-stats.vercel.app/api?username=jabedhossainxyz&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" > <br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhossainxyz&theme=tokyonight" width="45%" > 
 
 <br /> <br />
 
